@@ -279,4 +279,5 @@ This project is licensed under the MIT License.
 
 ---
 
+
 **Made with ❤️ for fitness enthusiasts everywhere!**
